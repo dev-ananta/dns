@@ -606,7 +606,7 @@ qr: # A hack club themed QR code generator
   type: CNAME
   value: felixgao.hackclub.app.
 
-reforge: # Ananta the Developer's 2026 Hack Club Internship Application YSWS
+reforge: # anantparikh014@gmail.com [U0A9V5E6945] | Reforge YSWS
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.

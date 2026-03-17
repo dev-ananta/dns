@@ -4516,6 +4516,11 @@ ref.guide:
   ttl: 300
   type: CNAME
   value: symmetrical-potatoe-xe9q1l2s6ikk2wmjs2c7obnj.herokudns.com.
+# If I get hackclub.com permission I premoved via comments. - Ananta the Developer
+#reforge:
+#  ttl: 300
+#  type: CNAME
+#  value: cname.vercel-dns.com.
 reflow:
 - ttl: 300
   type: CNAME
